@@ -43,8 +43,7 @@ ggpairs(d,
 # Settings of MCMC ----
 
 dir <- "001__Model/"
-scr <- str_c("./", dir, "QR_reparameterization_LinearModel.stan")
-# scr <- str_c("./", dir, "PoissonModel.stan")
+scr <- str_c("./", dir, "QR_repara_LinearModel.stan")
 par <- c("alpha", "theta", "beta", "sigma", "y_pred")
 war <- 1000
 ite <- 11000
