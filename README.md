@@ -1,2 +1,3 @@
 # Bayes Modering by Rstan
-QR Reparameterization Lenear Model
+This is the sample code for the QR Reparameterization Lenear Model.
+Referring to the Official Stan User's Guide.
